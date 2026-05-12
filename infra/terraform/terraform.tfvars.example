@@ -1,0 +1,6 @@
+aws_region  = "sa-east-1"
+project_name = "photo-catalog"
+environment  = "prod"
+owner        = "Sanderson"
+
+enable_waf = false
