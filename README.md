@@ -146,6 +146,3 @@ Não versionar:
 - secrets
 - arquivos `.env`
 
-## Post para LinkedIn
-
-Veja `docs/linkedin-post.md`.
