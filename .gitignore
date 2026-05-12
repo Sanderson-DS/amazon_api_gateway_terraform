@@ -86,6 +86,8 @@ Thumbs.db
 *.tfstate
 *.tfstate.*
 terraform.tfvars
+terraform.tfvars.example
+terraform.lock.hcl
 terraform.tfvars.json
 *.tfvars
 *.tfvars.json
